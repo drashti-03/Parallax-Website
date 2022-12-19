@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Alegreya', serif;
+    height: 100%;   
+}
+
+.heading{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    letter-spacing: 8px;
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    width: 100%;
+    top: 30%;
+  }
+
+.bg1{
+    padding-bottom: 0px;
+    background: url(img/20201226_194518a.png);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    
+    width: 100%;
+    position: relative;
+}
+
+.bg2{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background: url(img/20210610_121538.jpg);
+    min-height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 100%;
+    position: relative;
+}
+
+.bg3{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background: url(img/Screenshot_20210423-183809_Instagram.jpg);
+    min-height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 100%;
+    position: relative;
+}
+
+.bg4{
+    padding-top: 0px;
+    background: url(img/20210701_201414.jpg);
+    min-height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 100%;
+    position: relative;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+    top: 600px;
+    background-color: rgb(37, 40, 57);
+    color: white;
+    padding: 50px 80px;
+    text-align: center;
+    
+}
